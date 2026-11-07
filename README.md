@@ -2,9 +2,9 @@
 
 A study-doubt room where a **Tutor agent**, a **human mentor** and a **Quizmaster agent** work together in one shared [Switch](https://github.com/sandbox-quantum/switch) room on Mattermost.
 
-Built solo by [your name] for the Flip the Switch Hackathon, Track 2 (Personal or Creative Workflow).
+Built solo by Saheli for the Flip the Switch Hackathon, Track 2 (Personal or Creative Workflow).
 
-**Demo video:** [paste your Google Drive video link]
+**Demo video:** https://youtu.be/Rzw_tpcteR8
 
 ## The problem
 
