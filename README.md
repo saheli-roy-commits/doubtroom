@@ -65,4 +65,5 @@ Use OpenCode with a free model for both agents.
 
 One room per class, a mentor progress view, more subjects as new agent instructions, and a Telegram version.
 
-![Quiz screenshot](quiz.png)
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/246f741d-b2a8-4dbf-a17e-545d2b1ded2f" />
+
